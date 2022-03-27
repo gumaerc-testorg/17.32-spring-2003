@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b67ffa26-7132-cd00-e970-642a358fef41
 resourcetype: Document
 title: 173206cleanair.pdf
 uid: d6313041-868f-cf58-73e3-5ee1ec4e87bf

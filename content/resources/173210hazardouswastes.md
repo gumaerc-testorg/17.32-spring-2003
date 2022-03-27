@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b67ffa26-7132-cd00-e970-642a358fef41
 resourcetype: Document
 title: 173210hazardouswastes.pdf
 uid: 8521f837-c880-5820-86b1-145da1ca82fd

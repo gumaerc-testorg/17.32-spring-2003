@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b67ffa26-7132-cd00-e970-642a358fef41
 resourcetype: Document
 title: 173211TheReaganRevolutionEnvironmentalPolicy.pdf
 uid: 1c6b9c03-00e3-273f-0a6d-95ec377b4868

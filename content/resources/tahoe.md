@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7f4b1700-dbfe-a008-c8a4-3804240403b6
 resourcetype: Document
 title: tahoe.pdf
 uid: 8ad00315-d2cc-92c0-250c-f42f0949e4ae

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b67ffa26-7132-cd00-e970-642a358fef41
 resourcetype: Document
 title: 173201environmentalhistoryclassnotes.pdf
 uid: 37f7ccb3-be60-d84c-94dc-7ef5cb9c5fd3

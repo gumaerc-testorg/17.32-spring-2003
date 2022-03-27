@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7f4b1700-dbfe-a008-c8a4-3804240403b6
 resourcetype: Document
 title: palazolla_v_ri.pdf
 uid: 408c80b1-8f1c-bacc-4633-88fd14362fc7

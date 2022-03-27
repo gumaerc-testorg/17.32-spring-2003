@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b67ffa26-7132-cd00-e970-642a358fef41
 resourcetype: Document
 title: 173216propertyrightsenvironmentalpolicy.pdf
 uid: de1cd30e-9555-f38a-407e-a5a8eb89ace9

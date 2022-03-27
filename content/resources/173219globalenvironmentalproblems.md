@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b67ffa26-7132-cd00-e970-642a358fef41
 resourcetype: Document
 title: 173219globalenvironmentalproblems.pdf
 uid: ad2ac44b-ab9b-04b2-bd3d-fd3f77b83a28

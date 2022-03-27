@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b67ffa26-7132-cd00-e970-642a358fef41
 resourcetype: Other
 title: costbenefitexample.xls
 uid: ecbcc3ac-7ae7-7a19-1aed-aa421436b753
