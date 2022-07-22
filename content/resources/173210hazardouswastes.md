@@ -5,6 +5,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/8521f837c8805
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 173210hazardouswastes.pdf
 uid: 8521f837-c880-5820-86b1-145da1ca82fd
 ---
 Hazardous Wastes
-

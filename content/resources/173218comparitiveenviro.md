@@ -5,6 +5,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/58d2e75b00391
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 173218comparitiveenviro.pdf
 uid: 58d2e75b-0039-1de5-2c05-3c77b1545553
 ---
 Environmental Politics in Other Industrialized Democracies
-

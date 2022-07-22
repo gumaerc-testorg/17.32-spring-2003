@@ -6,6 +6,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/ecbcc3ac7ae77
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: costbenefitexample.xls
 uid: ecbcc3ac-7ae7-7a19-1aed-aa421436b753
 ---
 Economic tools in Environmental policy.  Related handout: Cost benefit example (Air pollution, Wildlife)
-

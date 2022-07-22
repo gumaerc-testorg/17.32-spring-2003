@@ -5,6 +5,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/7add5cae2b55b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 173205administrativerationalism.pdf
 uid: 7add5cae-2b55-ba37-2d9c-55986b8ac269
 ---
 Administrative Rationalism: "Command & Control Regulation"
-

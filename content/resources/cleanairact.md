@@ -5,6 +5,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/2839d3345b37d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cleanairact.pdf
 uid: 2839d334-5b37-d376-08ce-855483c1e6c6
 ---
 CLEAN AIR ACT
-

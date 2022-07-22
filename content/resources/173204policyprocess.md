@@ -5,6 +5,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/df8a4e613200c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 173204policyprocess.pdf
 uid: df8a4e61-3200-c010-dc1e-cd9cd95049c5
 ---
 Understanding the Environmental Policy Process
-

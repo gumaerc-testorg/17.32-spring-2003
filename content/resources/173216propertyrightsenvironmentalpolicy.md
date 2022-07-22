@@ -5,6 +5,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/de1cd30e9555f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 173216propertyrightsenvironmentalpolicy.pdf
 uid: de1cd30e-9555-f38a-407e-a5a8eb89ace9
 ---
 Property Rights & Environmental Policy
-

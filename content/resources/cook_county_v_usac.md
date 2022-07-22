@@ -9,6 +9,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/3734fa9c3299e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 3734fa9c-3299-e79d-46c9-a58381cb13dd
 SOLID WASTE AGENCY OF NORTHERN COOK
 COUNTY v. UNITED STATES ARMY CORPS
 OF ENGINEERS ET AL.
-

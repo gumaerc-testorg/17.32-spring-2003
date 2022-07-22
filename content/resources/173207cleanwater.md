@@ -5,6 +5,7 @@ file: /courses/17-32-environmental-politics-and-policy-spring-2003/787bb6299b8d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 173207cleanwater.pdf
 uid: 787bb629-9b8d-96f1-ff5d-d011607b76b6
 ---
 Commanding Clean Water: Protecting Public Health and the Aquatic Environment
-
