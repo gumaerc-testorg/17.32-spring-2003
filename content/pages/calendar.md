@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4f57b312-ce2e-56ac-8156-14561d1591a0
 ---
@@ -57,7 +60,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 
 
-**A Brief 300 Year History of American Environmentalism** ([PDF]({{< baseurl >}}/resources/173201environmentalhistoryclassnotes))
+**A Brief 300 Year History of American Environmentalism** ({{% resource_link 37f7ccb3-be60-d84c-94dc-7ef5cb9c5fd3 "PDF" %}})
 
 This introduction to the course reviews the evolution of environmentalism in the U.S. since the colonial era.
 
@@ -81,7 +84,7 @@ Kraft, Michael E., and Norman J Vig. "Environmental Policy from the 1970s to 200
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Study Questions]({{< baseurl >}}/pages/assignments#class_2)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Study Questions" "#class_2" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -95,7 +98,7 @@ Kraft, Michael E., and Norman J Vig. "Environmental Policy from the 1970s to 200
 {{< tdopen >}}
 
 
-**The Environmental Impact of Human Activity: Is there a Problem?** ([PDF]({{< baseurl >}}/resources/173202limitedearth))
+**The Environmental Impact of Human Activity: Is there a Problem?** ({{% resource_link bf75329f-59c5-f727-54fb-470889a04545 "PDF" %}})
 
 We begin with a very basic question: How severe are the environmental problems we are facing? Is the earth facing a looming environmental catastrophe? These authors believe we are approaching a planetary crisis.
 
@@ -140,10 +143,10 @@ Easterbrook, Gregg. _A Moment on Earth_.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Study Questions]({{< baseurl >}}/pages/assignments#class_3_4)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Study Questions" "#class_3_4" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper #1 Assigned]({{< baseurl >}}/pages/assignments#papertopic_1)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Paper #1 Assigned" "#papertopic_1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +157,7 @@ Easterbrook, Gregg. _A Moment on Earth_.
 {{< tdopen >}}
 
 
-**The Institutional Setting of U.S. Environmental Policy** ([PDF]({{< baseurl >}}/resources/173204policyprocess))
+**The Institutional Setting of U.S. Environmental Policy** ({{% resource_link df8a4e61-3200-c010-dc1e-cd9cd95049c5 "PDF" %}})
 
 Who are the key players in environmental policymaking? How does the environmental policymaking process work?
 
@@ -180,10 +183,10 @@ McSpadden, Lettie. "Environmental Policy and the Courts."
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Study Questions]({{< baseurl >}}/pages/assignments#class_5)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Study Questions" "#class_5" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper #1 Due]({{< baseurl >}}/pages/assignments#papertopic_1)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Paper #1 Due" "#papertopic_1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +203,7 @@ McSpadden, Lettie. "Environmental Policy and the Courts."
 {{< tdopen >}}
 
 
-**Legislating Clean Air** ([PDF 1]({{< baseurl >}}/resources/173205administrativerationalism)) ([PDF 2]({{< baseurl >}}/resources/173206cleanair))
+**Legislating Clean Air** ({{% resource_link 7add5cae-2b55-ba37-2d9c-55986b8ac269 "PDF 1" %}}) ({{% resource_link d6313041-868f-cf58-73e3-5ee1ec4e87bf "PDF 2" %}})
 
 The government had to do something about America's unbreathable air. And it did: the Clean Air Act of 1970. Congress set air standards, set deadlines, and ordered the air to be cleansed.
 
@@ -234,7 +237,7 @@ Torgerson. "Limits of the Administrative Mind."
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Study Questions]({{< baseurl >}}/pages/assignments#class_6)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Study Questions" "#class_6" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -248,7 +251,7 @@ Torgerson. "Limits of the Administrative Mind."
 {{< tdopen >}}
 
 
-**Commanding Clean Water** ([PDF]({{< baseurl >}}/resources/173207cleanwater))
+**Commanding Clean Water** ({{% resource_link 787bb629-9b8d-96f1-ff5d-d011607b76b6 "PDF" %}})
 
 The Clean Water Act of 1972 was supposed to make all the waters of the U.S. clean by 1985. What happened and why?
 
@@ -274,7 +277,7 @@ Freeman, A. Myrick, III. "Water Pollution Policy."
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Study Questions]({{< baseurl >}}/pages/assignments#class_7)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Study Questions" "#class_7" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -295,7 +298,7 @@ Freeman, A. Myrick, III. "Water Pollution Policy."
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Re-Write of Paper #1 Due]({{< baseurl >}}/pages/assignments#papertopic_1)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Re-Write of Paper #1 Due" "#papertopic_1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +309,7 @@ Freeman, A. Myrick, III. "Water Pollution Policy."
 {{< tdopen >}}
 
 
-**The Slippery Slope of Environmental Protection: The Case of Wetlands** ([PDF]({{< baseurl >}}/resources/17_32_08protectingwetlands))
+**The Slippery Slope of Environmental Protection: The Case of Wetlands** ({{% resource_link b8f3c6f7-ef52-e86b-9bb4-e3e7bdfdcd7c "PDF" %}})
 
 This class explores how the reach of a law can expand beyond what its original creators intended. We look at how a series of court cases broadened the jurisdiction of the Clean Water Act and forced the US Army Corps of Engineers to protect wetlands--and then two decades later forced it to "unprotect" them.
 
@@ -321,14 +324,14 @@ Federal District Court Case: [United States v Holland (No. 73-623 (M.D. Fla. Mar
 
 Supreme Court Case: [United States v Riverside Bayview Homes (No. 84-703, December 4, 1985.)](http://www.elr.info/index.cfm)
 
-Supreme Court Case: Solid Waste Agency of Northern Cook County, Petitioner v. United States Army Corps of Engineers, et al. (No. 99-1178, January 9, 2001.) ([PDF]({{< baseurl >}}/resources/cook_county_v_usac))
+Supreme Court Case: Solid Waste Agency of Northern Cook County, Petitioner v. United States Army Corps of Engineers, et al. (No. 99-1178, January 9, 2001.) ({{% resource_link 3734fa9c-3299-e79d-46c9-a58381cb13dd "PDF" %}})
 
 Williams, Ted. "Who can Save a Wetland?"
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Study Questions]({{< baseurl >}}/pages/assignments#class_9)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Study Questions" "#class_9" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -342,7 +345,7 @@ Williams, Ted. "Who can Save a Wetland?"
 {{< tdopen >}}
 
 
-**Endangered Species and Biodiversity** ([PDF]({{< baseurl >}}/resources/173209_protecting_biodiversity))
+**Endangered Species and Biodiversity** ({{% resource_link e1a73c3a-6b09-e861-7e87-cc478d1cd06e "PDF" %}})
 
 Americans have always had a schizophrenic "environmental" attitude toward wildlife and the landscape. An unstable mix of values:--romanticism, utilitarianism, dominionism (fear), and liberty (common property ownership)--has made preservation and protection of America's natural landscape a policy rife with internal contradictions, reversals, and too-little too-late reactions.
 
@@ -388,7 +391,7 @@ Kellert, Stephen. _The Value of Life_. Chap. 2 and 3, pp. 9-63.
 {{< tdopen >}}
 
 
-**Of Toxic Wastes and Government Failure** ([PDF]({{< baseurl >}}/resources/173210hazardouswastes))
+**Of Toxic Wastes and Government Failure** ({{% resource_link 8521f837-c880-5820-86b1-145da1ca82fd "PDF" %}})
 
 This lecture examines how mass politics extended the environmental mandate, bringing about stringent regulations and standards for hazardous waste control. What mobilizes public participation in environmental policy and how does that participation affect policy? How does the public grapple with complex scientific and technical issues? How do government and media organizations respond to public pressures?
 
@@ -403,7 +406,7 @@ Layzer. "Love Canal: Hazardous Wastes and the Politics of Fear." In _The Enviro
 
 Switzer. _Environmental Politics_. Pp. 113-138.
 
-Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://fbaum.unc.edu/teaching/articles/Downs_Public_Interest_1972.pdf))
+Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." ([PDF](https://fbaum.unc.edu/teaching/articles/Downs_Public_Interest_1972.pdf))
 
 Recommended Reading:
 
@@ -434,7 +437,7 @@ Layzer. "Government Secrets at Rocky Flats." In _The Environmental Case_. Pp. 7
 {{< tdopen >}}
 
 
-**The Reagan Revolution: Rethinking Environmental Policy** ([PDF]({{< baseurl >}}/resources/173211thereaganrevolutionenvironmentalpolicy))
+**The Reagan Revolution: Rethinking Environmental Policy** ({{% resource_link 1c6b9c03-00e3-273f-0a6d-95ec377b4868 "PDF" %}})
 
 The Reagan administration comes to power critical of "big government" in general and government regulation in particular--especially environmental regulation. Arguing that environmental regulation was hobbling the economy the administration tried to dismantle the environmental framework that had been established the previous decade. One of its more lasting efforts was to require cost-benefit analysis for environmental regulations.
 
@@ -474,7 +477,7 @@ Grunwald, Michael. "How Corps Turned Doubt Into a Lock."
 {{< tdopen >}}
 
 
-**Regulatory Reform and Economic Tools** ([PDF]({{< baseurl >}}/resources/173212economictools))
+**Regulatory Reform and Economic Tools** ({{% resource_link 1e53b934-d009-5bf2-794e-dcb65c835d74 "PDF" %}})
 
 General dissatisfaction with big government and the seeming stagnation of environmental policy opens the door for advocates of economic mechanisms to guide environmental policy choices. Markets, taxes, subsidies, etc. can be employed to elicit voluntary environmentalism.
 
@@ -507,7 +510,7 @@ Weber, Edward. "Assuring Reductions in Acid Rain: The Case of Government Imposed
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper #2 Due]({{< baseurl >}}/pages/assignments#papertopic_2)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Paper #2 Due" "#papertopic_2" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -518,7 +521,7 @@ Weber, Edward. "Assuring Reductions in Acid Rain: The Case of Government Imposed
 {{< tdopen >}}
 
 
-**Environmental Equity and Justice** ([PDF]({{< baseurl >}}/resources/173213environmentaljustice))
+**Environmental Equity and Justice** ({{% resource_link 138783f0-dd0d-5649-4fd6-43943c7dde38 "PDF" %}})
 
 There can be no doubt that 30 years of environmental policy has lessened the pollution burden on the nation, slowed the loss of ecological communities and species, and improved our quality of life. But not all Americans have benefited equally. Some Americans--minorities and the poor, in particular--may have enjoyed no benefit at all. Is this "unfair" distribution of environmental benefits just an artifact of policy or does it reflect racial and class biases in our society?
 
@@ -558,7 +561,7 @@ Rinquist, Evan J. "Environmental Justice: Normative Concerns and Empirical Evide
 {{< tdopen >}}
 
 
-**Environmental Protection and Wise Use of Public Lands** ([PDF]({{< baseurl >}}/resources/17_32_14publiclands))
+**Environmental Protection and Wise Use of Public Lands** ({{% resource_link 5a826f7b-64a1-6a80-9de1-2daf989c2541 "PDF" %}})
 
 This lecture explores the rise of anti-environmentalism in the western revolt against federal control of public lands and its spill over to environmental policy in the rest of the country. It investigates relationships among the Presidency, Congress, federal agencies, and interest groups and how those relationships determine public lands policy.
 
@@ -580,7 +583,7 @@ Switzer. _Environmental Politics_. Pp. 93-112, 243-272.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Study Questions]({{< baseurl >}}/pages/assignments#class_16)
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Study Questions" "#class_16" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -600,7 +603,7 @@ Switzer. _Environmental Politics_. Pp. 93-112, 243-272.
 {{< tdopen >}}
 
 
-**Risk Assessment and the Public's Right to Know** ([PDF]({{< baseurl >}}/resources/173215riskandtheenvironment))
+**Risk Assessment and the Public's Right to Know** ({{% resource_link 8a36b47b-4338-d736-36ab-0545c9913d89 "PDF" %}})
 
 Risk assessment is an important tool in environmental policymaking. We examine its use in providing safe drinking water. We look at how public information and collaborative/voluntary approaches can reduce environmental risks and improve environmental quality.
 
@@ -640,7 +643,7 @@ Lee. "The Columbia River Basin: Experimenting with Sustainability."
 {{< tdopen >}}
 
 
-**Property Rights and Suburban Sprawl** ([PDF]({{< baseurl >}}/resources/173216propertyrightsenvironmentalpolicy))
+**Property Rights and Suburban Sprawl** ({{% resource_link de1cd30e-9555-f38a-407e-a5a8eb89ace9 "PDF" %}})
 
 This class focuses on suburban "sprawl" and its impacts on landscape: development, habitat fragmentation, etc.
 
@@ -658,8 +661,8 @@ Layzer. "Backlash: Wise Use, Property Rights and the Anti-Environmental Movement
 Supreme Court Cases:
 
 *   [Babbit v. Sweethome (94-859, June 29, 1995.)](http://www.law.cornell.edu/supct/html/94-859.ZO.html)
-*   Palazzolo v. Rhode Island, et al. Certiorari to the Supreme Court of Rhode Island (No.99 -2047, June 28, 2001.) ([PDF]({{< baseurl >}}/resources/palazolla_v_ri))
-*   Tahoe-Sierra Preservation Council, Inc., et al., v. Tahoe Regional Planning Agency, et al. (No. 00-1167) ([PDF]({{< baseurl >}}/resources/tahoe))
+*   Palazzolo v. Rhode Island, et al. Certiorari to the Supreme Court of Rhode Island (No.99 -2047, June 28, 2001.) ({{% resource_link 408c80b1-8f1c-bacc-4633-88fd14362fc7 "PDF" %}})
+*   Tahoe-Sierra Preservation Council, Inc., et al., v. Tahoe Regional Planning Agency, et al. (No. 00-1167) ({{% resource_link 8ad00315-d2cc-92c0-250c-f42f0949e4ae "PDF" %}})
 
 Recommended Reading:
 
@@ -726,7 +729,7 @@ Harrison, Kathyrn. "[Talking with the Donkey: Cooperative Approaches to Environm
 {{< tdopen >}}
 
 
-**Comparing Environment Policymaking Around the World** ([PDF]({{< baseurl >}}/resources/173218comparitiveenviro))
+**Comparing Environment Policymaking Around the World** ({{% resource_link 58d2e75b-0039-1de5-2c05-3c77b1545553 "PDF" %}})
 
 For the past few months we have looked at how institutions, interest groups, elected officials, etc. define and shape solutions to US environmental problems. In this lecture we look briefly at other countries and their experience with acid rain. We consider whether different political institutions result in different outcomes, or if cultural, economic, or demographic factors are more important for explaining differences among national environmental policies.
 
@@ -762,7 +765,7 @@ Boehmer-Christiansen, Sonja, and Jim Skea. "Government, Politics and Environment
 {{< tdopen >}}
 
 
-**Energy and the Environment** ([PDF]({{< baseurl >}}/resources/173217energy))
+**Energy and the Environment** ({{% resource_link 0b69ee28-2970-0214-3449-b87a52c01255 "PDF" %}})
 
 Cheap energy drives the American economy; indeed, it drives the global economy. But cheap energy carries a heavy environmental price tag. Extracting fossil fuels despoils the landscape. Burning fossil fuels pollutes the air. Hydropower devastates river ecology, while nuclear power leaves deadly wastes behind. How do we decide these tradeoffs?
 
@@ -853,7 +856,7 @@ Eckersley. "Ecocentrism Explained and Defended."
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper #3 Due]({{< baseurl >}}/pages/assignments#papertopic_3)  
+{{% resource_link e5add3dc-27da-d59d-240b-58731472720b "Paper #3 Due" "#papertopic_3" %}}  
 by 4 pm  
 End of term regulations require that the last assignment (other than the final exam) be due no later than today. Your paper may be submitted by hard copy or email to your TA.
 {{< tdclose >}}
@@ -866,7 +869,7 @@ End of term regulations require that the last assignment (other than the final e
 {{< tdopen >}}
 
 
-**Climate Change and Other Global Environmental Issues** ([PDF]({{< baseurl >}}/resources/173219globalenvironmentalproblems))
+**Climate Change and Other Global Environmental Issues** ({{% resource_link ad2ac44b-ab9b-04b2-bd3d-fd3f77b83a28 "PDF" %}})
 
 Bio-homogenization, alien species, climate change
 
