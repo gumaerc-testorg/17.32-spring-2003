@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: The Reagan Revolution & Environmental Policy
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/1c6b9c0300e3273f0a6d95ec377b4868_173211TheReaganRevolutionEnvironmentalPolicy.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/1c6b9c0300e3273f0a6d95ec377b4868_173211TheReaganRevolutionEnvironmentalPolicy.pdf
+file_size: 172040
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

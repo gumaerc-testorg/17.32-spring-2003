@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Global Environmental Problems
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/ad2ac44bab9b04b2bd3dfd3f77b83a28_173219globalenvironmentalproblems.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/ad2ac44bab9b04b2bd3dfd3f77b83a28_173219globalenvironmentalproblems.pdf
+file_size: 190286
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

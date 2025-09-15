@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Property Rights & Environmental Policy
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/de1cd30e9555f38a407ea5a8eb89ace9_173216propertyrightsenvironmentalpolicy.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/de1cd30e9555f38a407ea5a8eb89ace9_173216propertyrightsenvironmentalpolicy.pdf
+file_size: 140506
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

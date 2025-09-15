@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Hazardous Wastes
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/8521f837c880582086b1145da1ca82fd_173210hazardouswastes.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/8521f837c880582086b1145da1ca82fd_173210hazardouswastes.pdf
+file_size: 298367
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,7 +5,8 @@ description: 'SOLID WASTE AGENCY OF NORTHERN COOK
   COUNTY v. UNITED STATES ARMY CORPS
 
   OF ENGINEERS ET AL.'
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/3734fa9c3299e79d46c9a58381cb13dd_cook_county_v_usac.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/3734fa9c3299e79d46c9a58381cb13dd_cook_county_v_usac.pdf
+file_size: 233234
 file_type: application/pdf
 learning_resource_types:
 - Readings

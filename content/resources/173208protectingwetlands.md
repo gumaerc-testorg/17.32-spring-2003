@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lessons 1
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/ace3acf919339f044432809b1b28a24f_173208ProtectingWetlands.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/ace3acf919339f044432809b1b28a24f_173208ProtectingWetlands.pdf
+file_size: 378622
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

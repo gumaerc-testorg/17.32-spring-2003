@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Administrative Rationalism: "Command & Control Regulation"'
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/7add5cae2b55ba372d9c55986b8ac269_173205administrativerationalism.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/7add5cae2b55ba372d9c55986b8ac269_173205administrativerationalism.pdf
+file_size: 72213
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

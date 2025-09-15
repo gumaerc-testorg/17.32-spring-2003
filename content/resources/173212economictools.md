@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Economic Tools In Environmental Policy
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/1e53b934d0095bf2794edcb65c835d74_173212economictools.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/1e53b934d0095bf2794edcb65c835d74_173212economictools.pdf
+file_size: 160226
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

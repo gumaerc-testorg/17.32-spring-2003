@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Environmental Politics in Other Industrialized Democracies
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/58d2e75b00391de52c053c77b1545553_173218comparitiveenviro.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/58d2e75b00391de52c053c77b1545553_173218comparitiveenviro.pdf
+file_size: 706372
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

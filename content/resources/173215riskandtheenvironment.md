@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Risk Assessment & Risk Reduction in Environmental Policy
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/8a36b47b4338d73636ab0545c9913d89_173215riskandtheenvironment.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/8a36b47b4338d73636ab0545c9913d89_173215riskandtheenvironment.pdf
+file_size: 284950
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

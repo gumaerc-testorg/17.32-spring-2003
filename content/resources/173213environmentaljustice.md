@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Environmental Justice: Is Environmental Policy Fair? Does it Matter?'
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/138783f0dd0d56494fd643943c7dde38_173213environmentaljustice.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/138783f0dd0d56494fd643943c7dde38_173213environmentaljustice.pdf
+file_size: 144761
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

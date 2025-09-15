@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Are Environmental Problems Getting Worse or Better?
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/bf75329f59c5f72754fb470889a04545_173202limitedearth.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/bf75329f59c5f72754fb470889a04545_173202limitedearth.pdf
+file_size: 1045539
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

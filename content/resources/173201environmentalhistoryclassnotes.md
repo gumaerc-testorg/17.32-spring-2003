@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Environmental History
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/37f7ccb3be60d84c94dc7ef5cb9c5fd3_173201environmentalhistoryclassnotes.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/37f7ccb3be60d84c94dc7ef5cb9c5fd3_173201environmentalhistoryclassnotes.pdf
+file_size: 45506
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

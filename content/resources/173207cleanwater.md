@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Commanding Clean Water: Protecting Public Health and the Aquatic Environment'
-file: /courses/17-32-environmental-politics-and-policy-spring-2003/787bb6299b8d96f1ff5dd011607b76b6_173207cleanwater.pdf
+file: /ol-ocw-studio-app/courses/17-32-environmental-politics-and-policy-spring-2003/787bb6299b8d96f1ff5dd011607b76b6_173207cleanwater.pdf
+file_size: 873228
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
